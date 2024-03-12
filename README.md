@@ -1,4 +1,4 @@
-front是前端vue项目文件，集成vue脚手架开发
+front是前端vue项目文件，集成vue脚手架开发，前端项目端口号:8080
 
 ylb是后端SpringBoot+Dubbo+zookeeper+MyBatis项目
 
